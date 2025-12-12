@@ -12,7 +12,7 @@ def area(a, b):
 
 			S (float) – периметр прямоугольника с длиной a и шириной b
 	'''
-    return a * b 
+	return a * b 
 
 def perimeter(a, b): 
 	'''
@@ -28,4 +28,4 @@ def perimeter(a, b):
 
 			P (float) – периметр прямоугольника с длиной a и шириной b
 	'''
-    return 2*(a + b)
+	return 2*(a + b)

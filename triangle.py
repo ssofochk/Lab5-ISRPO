@@ -12,7 +12,7 @@ def area(a, h):
 
 			S (float) – площадь треугольника с основанием a и длиной высоты h, опущенной на это основание.
 	'''
-    return a * h / 2 
+	return a * h / 2 
 
 def perimeter(a, b, c): 
 	'''
@@ -26,4 +26,4 @@ def perimeter(a, b, c):
 
     			P (float) – периметр треугольника со сторонами a, b, c
 	'''
-    return a + b + c 
+	return a + b + c 
