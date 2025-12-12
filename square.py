@@ -11,7 +11,7 @@ def area(a):
 
 		S (float) – площадь квадрата со стороной aПринимает длину стороны квадрата, возвращает его прощадь
 	'''
-    return a * a
+	return a * a
 
 
 def perimeter(a):
@@ -26,4 +26,4 @@ def perimeter(a):
 
 			S (float) – периметр квадрата по стороной a
 	'''
-    return 4 * a
+	return 4 * a

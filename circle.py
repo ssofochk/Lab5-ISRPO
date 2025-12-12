@@ -13,7 +13,7 @@ def area(r):
 
 			S (float) – площадь круга
 	'''
-    return math.pi * r * r
+	return math.pi * r * r
 
 
 def perimeter(r):
@@ -29,5 +29,5 @@ def perimeter(r):
 
 			S (float) – длина окружности радиуса r
 	'''
-    return 2 * math.pi * r
+	return 2 * math.pi * r
 
